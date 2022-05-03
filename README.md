@@ -1,0 +1,1 @@
+While I was passing the web development school courses and the challenges that I was proposing myself, I decided to create a place where I could show my projects. As a result I have this page in GitHub Pages that allows me to constantly update it with the skills, services I am able to offer and the new things I am learning in this long road of web development.
